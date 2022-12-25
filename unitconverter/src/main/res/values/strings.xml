@@ -1,0 +1,306 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Bottom navigation view-->
+    <string name="string_main_bnv_quantities">Quantities</string>
+    <string name="string_main_bnv_favorites">Favorites</string>
+    <string name="string_main_bnv_more">More</string>
+
+    <!--Quantities fragment-->
+    <string name="string_quantities_list_length">طول</string>
+    <string name="string_quantities_list_area">مساحت</string>
+    <string name="string_quantities_list_weight">وزن</string>
+    <string name="string_quantities_list_volume">حجم</string>
+    <string name="string_quantities_list_temperature">دما</string>
+    <string name="string_quantities_list_time">زمان</string>
+    <string name="string_quantities_list_speed">سرعت</string>
+    <string name="string_quantities_list_digital">Digital</string>
+    <string name="string_quantities_list_age">سن</string>
+    <string name="string_quantities_list_binary">Binary</string>
+    <string name="string_quantities_list_angle">زاویه</string>
+    <string name="string_quantities_list_pressure">فشار</string>
+    <string name="string_quantities_list_voltage">ولتاژ</string>
+    <string name="string_quantities_list_current">جاری</string>
+    <string name="string_quantities_list_power">توان</string>
+    <string name="string_quantities_list_flow">جریان</string>
+    <string name="string_quantities_list_frequency">فرکانس</string>
+    <string name="string_quantities_list_illuminance">روشنایی</string>
+    <string name="string_quantities_list_energy">انرژی</string>
+    <string name="string_quantities_list_storage">ذخیره سازی</string>
+    <string name="string_quantities_list_force">تحمیل</string>
+    <string name="string_quantities_list_sound">صدا</string>
+    <string name="string_quantities_list_resistance">مقاومت</string>
+    <string name="string_quantities_list_luminance">درخشندگی</string>
+    <string name="string_quantities_list_capacitance">ظرفیت</string>
+    <string name="string_quantities_list_surface_tension">کشش سطحی</string>
+    <string name="string_quantities_list_density">تراکم</string>
+    <string name="string_quantities_list_torque">گشتاور</string>
+
+    <!--More fragment-->
+    <string name="string_more_settings_header">Settings</string>
+    <string name="string_more_support_header">Support</string>
+    <string name="string_more_about_header">About Us</string>
+    <string name="string_more_settings_language">Language</string>
+    <string name="string_more_settings_night">Night Mode</string>
+    <string name="string_more_list_support_donate">Donate and Remove Ads</string>
+    <string name="string_more_list_support_rate">Rate Us</string>
+    <string name="string_more_list_support_feedback">Feedback</string>
+    <string name="string_more_list_support_invite">Invite Friends</string>
+    <string name="string_more_list_about_disclaimer">Disclaimer</string>
+    <string name="string_more_list_about_twitter">"Developer's Twitter"</string>
+    <string name="string_more_list_about_instagram">"Developer's Instagram"</string>
+    <string name="string_more_list_about_telegram">"Developer's Telegram"</string>
+
+    <!--Communication-->
+    <string name="string_more_text_support_invite">"I\'m using the Real Barrel's Unit Converter app and thought you might like it too. Download it from here:\n\n"</string>
+    <string name="string_more_title_support_invite">Invite via…</string>
+    <string name="string_more_title_support_open">Open with…</string>
+    <string name="string_more_title_support_feedback">Send feedback via…</string>
+
+    <!--Language activity-->
+    <string name="string_language_title">Language</string>
+    <string name="string_language_header">Choose your language</string>
+    <string name="string_language_list_english">English</string>
+    <string name="string_language_list_persian">Persian</string>
+
+    <!--Disclaimer activity-->
+    <string name="string_disclaimer_title">Disclaimer</string>
+    <string name="string_disclaimer_header">Privacy Policy</string>
+    <string name="string_disclaimer_text">Unit Converter is a very simple and powerful utility application mainly useful for education and quickly conversion in daily life. We do not ask for or store any sort of private data of the users.\n\n<b>User Contents</b>\n
+        We do not store, supervise and do not claim ownership on any contents created by the application users. You acknowledge that clearing application data or uninstalling this application from your device or losing your device or device problem could result in loss of all data. You are responsible for backing up your data.\n\n<b>Usage Policy</b>\n
+        All our android applications are licensed with Google Play. You may use this application solely for your personal use and must not modify, reproduce or distribute the software in any way or use it for any commercial purpose. Always download our application from official Google play store App or website to avail the latest updated and secure version of the Application in your device. By using our applications you agree to our Apps usage policy.\n\n<b>Ads Policy</b>\n
+        Apps published by Real Barrel are integrated with Google Ads. We do not personally endorse the products/services that are listed under ads by Google while using our applications. We allow Google ads in our apps for the purpose of managing our business continuity, marketing cost and paying the developers. By using our Application published by Real Barrel, You fully agree to our ads policy.\n\n<b>Liability</b>\n
+        We have gone to great lengths to ensure that all information in our applications and the promoting materials relating to it, is correct. However, we cannot be held responsible for potential errors and misinformation that our applications may still contain, nor for any potential damages or losses arising from relying on or applying the information from our applications.\n\n<b>Consent</b>\n
+        By using our applications, you consent to all of our privacy policies.\n\n<b>Changes to our Privacy policy</b>\n
+        If we decide to change our privacy policy, we will update those changes on this page.\nThe Policy was last modified on <b>December 22nd 2018</b>.\n\n<b>Contact us</b>\n
+        If there are any questions regarding the privacy policy you may contact us using the information below.\n\nEmail: <b>william.gates.3299@gmail.com</b></string>
+
+    <!--Converter activity-->
+    <string name="string_converter_title_from">From:</string>
+    <string name="string_converter_title_to">To:</string>
+    <string name="string_converter_text_share">"Download the Real Barrel's Unit Converter app from here:\n\n"</string>
+    <string name="string_converter_title_share">Share via…</string>
+
+    <!--Favorites activity-->
+    <string name="string_favorites_title">Favorites</string>
+
+    <!--Units activity-->
+    <string name="string_units_title">Select Unit</string>
+    <string name="string_units_menu_search">Search</string>
+
+    <!--Length units-->
+    <string name="string_units_list_length_meter">متر</string>
+    <string name="string_units_list_length_kilometer">کیلومتر</string>
+    <string name="string_units_list_length_decimeter">دسی متر</string>
+    <string name="string_units_list_length_centimeter">سانتی متر</string>
+    <string name="string_units_list_length_millimeter">میلی متر</string>
+    <string name="string_units_list_length_micrometer">میکرومتر</string>
+    <string name="string_units_list_length_nanometer">نانومتر</string>
+    <string name="string_units_list_length_mile">مایل</string>
+    <string name="string_units_list_length_yard">حیاط</string>
+    <string name="string_units_list_length_foot">فیت</string>
+    <string name="string_units_list_length_inch">اینچ</string>
+    <string name="string_units_list_length_light_year">سال نوری</string>
+    <string name="string_units_list_length_exameter">اگزامتر</string>
+    <string name="string_units_list_length_petameter">پتامتر</string>
+    <string name="string_units_list_length_terameter">دماسنج</string>
+    <string name="string_units_list_length_gigameter">گیگامتر</string>
+    <string name="string_units_list_length_megameter">مگامتر</string>
+    <string name="string_units_list_length_hectometer">هکتومتر</string>
+    <string name="string_units_list_length_dekameter">دکامتر</string>
+    <string name="string_units_list_length_micron">میکرون</string>
+    <string name="string_units_list_length_picometer">پیکومتر</string>
+    <string name="string_units_list_length_femtometer">فمتومتر</string>
+    <string name="string_units_list_length_attometer">اتومتر</string>
+    <string name="string_units_list_length_megaparsec">مگاپارسک</string>
+    <string name="string_units_list_length_kiloparsec">کیلوپارسک</string>
+    <string name="string_units_list_length_parsec">پارسک</string>
+    <string name="string_units_list_length_astronomical_unit">واحد نجومی</string>
+    <string name="string_units_list_length_league">لیگ</string>
+    <string name="string_units_list_length_nautical_league_uk">لیگ دریایی (UK)</string>
+    <string name="string_units_list_length_nautical_league_int">لیگ دریایی (Int.)</string>
+    <string name="string_units_list_length_league_statute">لیگ (Statute)</string>
+    <string name="string_units_list_length_nautical_mile_uk">مایل دریایی(UK)</string>
+    <string name="string_units_list_length_nautical_mile_international">مایل دریایی (International)</string>
+    <string name="string_units_list_length_mile_statute">مایل(Statute)</string>
+    <string name="string_units_list_length_mile_us_survey">مایل (US Survey)</string>
+    <string name="string_units_list_length_mile_roman">مایل (Roman)</string>
+    <string name="string_units_list_length_kiloyard">کیلویارد</string>
+    <string name="string_units_list_length_furlong">Furlong</string>
+    <string name="string_units_list_length_furlong_us_survey">فرلونگ (US Survey)</string>
+    <string name="string_units_list_length_chain_us_survey">زنجیر (US Survey)</string>
+    <string name="string_units_list_length_rope">طناب</string>
+    <string name="string_units_list_length_rod">راد</string>
+    <string name="string_units_list_length_rod_us_survey">راد (US Survey)</string>
+    <string name="string_units_list_length_perch">سوف</string>
+    <string name="string_units_list_length_pole">قطب</string>
+    <string name="string_units_list_length_fathom">فهام</string>
+    <string name="string_units_list_length_fathom_us_survey">فهام (US Survey)</string>
+    <string name="string_units_list_length_ell">مقیاس طول</string>
+    <string name="string_units_list_length_foot_us_survey">فیت (US Survey)</string>
+    <string name="string_units_list_length_link">Link</string>
+    <string name="string_units_list_length_link_us_survey">Link (US Survey)</string>
+    <string name="string_units_list_length_cubit_uk">کوبیت (UK)</string>
+    <string name="string_units_list_length_hand">Hand</string>
+    <string name="string_units_list_length_span_cloth">طول(Cloth)</string>
+    <string name="string_units_list_length_finger_cloth">Finger (Cloth)</string>
+    <string name="string_units_list_length_nail_cloth">Nail (Cloth)</string>
+    <string name="string_units_list_length_inch_us_survey">اینچ (US Survey)</string>
+    <string name="string_units_list_length_barleycorn">مقیاس وزنی برابر 0/0648 گرم</string>
+    <string name="string_units_list_length_mil">میلی</string>
+    <string name="string_units_list_length_microinch">میکرو اینچ</string>
+    <string name="string_units_list_length_angstrom">واحد اندازهگیری طول امواج</string>
+    <string name="string_units_list_length_au_of_length">A.u. از طول</string>
+    <string name="string_units_list_length_x_unit">X-واحد</string>
+    <string name="string_units_list_length_fermi">Fermi</string>
+    <string name="string_units_list_length_arpent">آرپنت</string>
+    <string name="string_units_list_length_pica">پیکا</string>
+    <string name="string_units_list_length_point">Point</string>
+    <string name="string_units_list_length_twip">Twip</string>
+    <string name="string_units_list_length_aln">Aln</string>
+    <string name="string_units_list_length_famn">Famn</string>
+    <string name="string_units_list_length_caliber">کالیبر</string>
+    <string name="string_units_list_length_centiinch">سانتی اینچ</string>
+    <string name="string_units_list_length_ken">Ken</string>
+    <string name="string_units_list_length_russian_archin">Russian Archin</string>
+    <string name="string_units_list_length_roman_actus">Roman Actus</string>
+    <string name="string_units_list_length_vara_de_tarea">Vara De Tarea</string>
+    <string name="string_units_list_length_vara_conuquera">Vara Conuquera</string>
+    <string name="string_units_list_length_vara_castellana">Vara Castellana</string>
+    <string name="string_units_list_length_cubit_greek">Cubit (Greek)</string>
+    <string name="string_units_list_length_long_reed">Long Reed</string>
+    <string name="string_units_list_length_reed">Reed</string>
+    <string name="string_units_list_length_long_cubit">Long Cubit</string>
+    <string name="string_units_list_length_handbreadth">Handbreadth</string>
+    <string name="string_units_list_length_fingerbreadth">Fingerbreadth</string>
+    <string name="string_units_list_length_planck_length">Planck Length</string>
+    <string name="string_units_list_length_electron_radius_classical">Electron Radius (Classical)</string>
+    <string name="string_units_list_length_bohr_radius">Bohr Radius</string>
+    <string name="string_units_list_length_earth_s_equatorial_radius">Earth\'s Equatorial Radius</string>
+    <string name="string_units_list_length_earth_s_polar_radius">Earth\'s Polar Radius</string>
+    <string name="string_units_list_length_earth_s_distance_from_sun">Earth\'s Distance From Sun</string>
+    <string name="string_units_list_length_sun_s_radius">Sun\'s Radius</string>
+
+    <!--Area units-->
+    <string name="string_units_list_area_square_meter">متر مربع</string>
+    <string name="string_units_list_area_square_kilometer">کیلومتر مربع</string>
+    <string name="string_units_list_area_square_centimeter">سانتی متر مربع</string>
+    <string name="string_units_list_area_square_millimeter">میلی متر مربع</string>
+    <string name="string_units_list_area_square_micrometer">میکرومتر مربع</string>
+    <string name="string_units_list_area_hectare">هکتار</string>
+    <string name="string_units_list_area_acre">زمین</string>
+    <string name="string_units_list_area_square_mile">مایل مربع</string>
+    <string name="string_units_list_area_square_yard">حیاط مربع</string>
+    <string name="string_units_list_area_square_foot">فوت مربع</string>
+    <string name="string_units_list_area_square_inch">اینچ مربع</string>
+    <string name="string_units_list_area_square_hectometer">هکتومتر مربع</string>
+    <string name="string_units_list_area_square_dekameter">دکامتر مربع</string>
+    <string name="string_units_list_area_square_decimeter">دسی متر مربع</string>
+    <string name="string_units_list_area_square_nanometer">نانومتر مربع</string>
+    <string name="string_units_list_area_are">Are</string>
+    <string name="string_units_list_area_barn">Barn</string>
+    <string name="string_units_list_area_square_mile_us_survey">مایل مربع (US Survey)</string>
+    <string name="string_units_list_area_square_foot_us_survey">فوت مربع (US Survey)</string>
+    <string name="string_units_list_area_circular_inch">اینچ دایره ای</string>
+    <string name="string_units_list_area_township">شهرستان</string>
+    <string name="string_units_list_area_section">بخش</string>
+    <string name="string_units_list_area_acre_us_survey">زمین (US Survey)</string>
+    <string name="string_units_list_area_rood">Rood</string>
+    <string name="string_units_list_area_square_chain">زنجیره مربع</string>
+    <string name="string_units_list_area_square_rod">میله مربعی</string>
+    <string name="string_units_list_area_square_rod_us_survey">میله مربعی (US Survey)</string>
+    <string name="string_units_list_area_square_perch">سوف مربع</string>
+    <string name="string_units_list_area_square_pole">قطب مربع</string>
+    <string name="string_units_list_area_square_mil">میل مربع</string>
+    <string name="string_units_list_area_circular_mil">دایره ای میل</string>
+    <string name="string_units_list_area_homestead">Homestead</string>
+    <string name="string_units_list_area_sabin">Sabin</string>
+    <string name="string_units_list_area_arpent">Arpent</string>
+    <string name="string_units_list_area_cuerda">Cuerda</string>
+    <string name="string_units_list_area_plaza">Plaza</string>
+    <string name="string_units_list_area_varas_castellanas_cuad">Varas Castellanas Cuad</string>
+    <string name="string_units_list_area_varas_conuqueras_cuad">Varas Conuqueras Cuad</string>
+    <string name="string_units_list_area_electron_cross_section">Electron Cross Section</string>
+
+    <!--Weight units-->
+    <string name="string_units_list_weight_kilogram">کیلو گرم</string>
+    <string name="string_units_list_weight_gram">گرم</string>
+    <string name="string_units_list_weight_milligram">میلی گرم</string>
+    <string name="string_units_list_weight_ton_metric">تن(Metric)</string>
+    <string name="string_units_list_weight_pound">پوند</string>
+    <string name="string_units_list_weight_ounce">اونس</string>
+    <string name="string_units_list_weight_carat">قیراط</string>
+    <string name="string_units_list_weight_ton_short">تن(Short)</string>
+    <string name="string_units_list_weight_ton_long">تن(Long)</string>
+    <string name="string_units_list_weight_atomic_mass_unit">واحد جرم اتمی</string>
+    <string name="string_units_list_weight_exagram">Exagram</string>
+    <string name="string_units_list_weight_petagram">پتاگرام</string>
+    <string name="string_units_list_weight_teragram">تراگرام</string>
+    <string name="string_units_list_weight_gigagram">گیگاگرام</string>
+    <string name="string_units_list_weight_megagram">مگاگرام</string>
+    <string name="string_units_list_weight_hectogram">هکتوگرام</string>
+    <string name="string_units_list_weight_dekagram">دکاگرام</string>
+    <string name="string_units_list_weight_decigram">دسی گرم</string>
+    <string name="string_units_list_weight_centigram">سانتی گرم</string>
+    <string name="string_units_list_weight_microgram">میکروگرم</string>
+    <string name="string_units_list_weight_nanogram">نانوگرم</string>
+    <string name="string_units_list_weight_picogram">پیکوگرام</string>
+    <string name="string_units_list_weight_femtogram">فمتوگرام</string>
+    <string name="string_units_list_weight_attogram">اتوگرام</string>
+    <string name="string_units_list_weight_dalton">دالتون</string>
+    <string name="string_units_list_weight_kilogram_force_square_second_meter">Kilogram-Force Square Second/Meter</string>
+    <string name="string_units_list_weight_kilopound">کیلوپوند</string>
+    <string name="string_units_list_weight_slug">Slug</string>
+    <string name="string_units_list_weight_pound_force_square_second_foot">Pound-Force Square Second/Foot</string>
+    <string name="string_units_list_weight_pound_troy_or_apothecary">Pound (Troy Or Apothecary)</string>
+    <string name="string_units_list_weight_poundal">Poundal</string>
+    <string name="string_units_list_weight_ton_assay_us">تن (Assay) (US)</string>
+    <string name="string_units_list_weight_ton_assay_uk">تن (Assay) (UK)</string>
+    <string name="string_units_list_weight_kiloton_metric">کیلوتون (Metric)</string>
+    <string name="string_units_list_weight_quintal_metric">کوئینتال (Metric)</string>
+    <string name="string_units_list_weight_hundredweight_us">صد وزن (US)</string>
+    <string name="string_units_list_weight_hundredweight_uk">صد وزن (UK)</string>
+    <string name="string_units_list_weight_quarter_us">ربع(US)</string>
+    <string name="string_units_list_weight_quarter_uk">ربع (UK)</string>
+    <string name="string_units_list_weight_stone_us">سنگ (US)</string>
+    <string name="string_units_list_weight_stone_uk">سنگ (UK)</string>
+    <string name="string_units_list_weight_tonne">تن</string>
+    <string name="string_units_list_weight_pennyweight">پنی وزن</string>
+    <string name="string_units_list_weight_scruple_apothecary">Scruple (Apothecary)</string>
+    <string name="string_units_list_weight_grain">Grain</string>
+    <string name="string_units_list_weight_gamma">Gamma</string>
+    <string name="string_units_list_weight_talent_biblical_hebrew">Talent (Biblical Hebrew)</string>
+    <string name="string_units_list_weight_mina_biblical_hebrew">Mina (Biblical Hebrew)</string>
+    <string name="string_units_list_weight_shekel_biblical_hebrew">Shekel (Biblical Hebrew)</string>
+    <string name="string_units_list_weight_bekan_biblical_hebrew">Bekan (Biblical Hebrew)</string>
+    <string name="string_units_list_weight_gerah_biblical_hebrew">Gerah (Biblical Hebrew)</string>
+    <string name="string_units_list_weight_talent_biblical_greek">Talent (Biblical Greek)</string>
+    <string name="string_units_list_weight_mina_biblical_greek">Mina (Biblical Greek)</string>
+    <string name="string_units_list_weight_tetradrachma_biblical_greek">Tetradrachma (Biblical Greek)</string>
+    <string name="string_units_list_weight_didrachma_biblical_greek">Didrachma (Biblical Greek)</string>
+    <string name="string_units_list_weight_drachma_biblical_greek">Drachma (Biblical Greek)</string>
+    <string name="string_units_list_weight_denarius_biblical_roman">Denarius (Biblical Roman)</string>
+    <string name="string_units_list_weight_assarion_biblical_roman">Assarion (Biblical Roman)</string>
+    <string name="string_units_list_weight_quadrans_biblical_roman">Quadrans (Biblical Roman)</string>
+    <string name="string_units_list_weight_lepton_biblical_roman">Lepton (Biblical Roman)</string>
+    <string name="string_units_list_weight_planck_mass">Planck Mass</string>
+    <string name="string_units_list_weight_electron_mass_rest">Electron Mass (Rest)</string>
+    <string name="string_units_list_weight_muon_mass">Muon Mass</string>
+    <string name="string_units_list_weight_proton_mass">Proton Mass</string>
+    <string name="string_units_list_weight_neutron_mass">Neutron Mass</string>
+    <string name="string_units_list_weight_deuteron_mass">Deuteron Mass</string>
+    <string name="string_units_list_weight_earth_s_mass">Earth\'s Mass</string>
+    <string name="string_units_list_weight_sun_s_mass">Sun\'s Mass</string>
+
+    <!--Temperature units-->
+    <string name="string_units_list_temperature_celsius">درجه سانتیگراد</string>
+    <string name="string_units_list_temperature_fahrenheit">فارنهایت</string>
+    <string name="string_units_list_temperature_kelvin">کلوین</string>
+    <string name="string_units_list_temperature_rankine">رانکین</string>
+    <string name="string_units_list_temperature_newton">نیوتن</string>
+    <string name="string_units_list_temperature_reaumur">Réaumur</string>
+    <string name="string_units_list_temperature_romer">Rømer</string>
+    <string name="string_units_list_temperature_delisle">Delisle</string>
+
+</resources>

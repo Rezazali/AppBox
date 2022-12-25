@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Qibla</string>
+
+
+    <string name="location_get_failed">خطا در بدست آوردن موقعیت جغرافیایی</string>
+    <string name="set_gps">لطفا ابتدا موقعیت جغرافیایی خود را تنظیم کنید</string>
+    <string name="gps_pref_key">gps_pref_key</string>
+    <string name="compass_not_support">You are not able to use the Qible Finder feature because your device doesn’t have Compass module.</string>
+    <string name="direction_holly">جهت امکان مقدس</string>
+    <string name="medina">مدینه</string>
+    <string name="mashad">مشهد</string>
+    <string name="karbala">کربلا</string>
+    <string name="najaf">نجف</string>
+    <string name="baghie">بقیع</string>
+    <string name="qom">قم</string>
+    <string name="mecca">مکه</string>
+    <string name="state_location_pref_key">state_LOCATION_PREF</string>
+
+    <string name="sensor_not_support">حسگر پشتیبانی نمیشود</string>
+    <string name="no_sensor_your_device">دستگاه شما دارای حسگر قطب نما نمیباشد</string>
+    <string name="cancel">لغو  </string>
+
+
+</resources>

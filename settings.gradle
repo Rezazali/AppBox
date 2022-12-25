@@ -1,0 +1,39 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "AppBox"
+include ':app'
+include ':toolfeature'
+include ':gamefeature'
+include ':bazzarfeature'
+include ':clubfeature'
+include ':scanner'
+include ':calculator'
+include ':qiba'
+include ':bmi'
+include ':metro'
+include ':sudoku'
+include ':stopwatch'
+include ':notepad'
+include ':pdfreader'
+include ':showcasefeature'
+include ':alltoolsfeature'
+include ':engineeringfeature'
+include ':healthfeature'
+include ':publicfeature'
+include ':counterfeature'
+include ':flashlight'
+include ':mapbrt'
+include ':speedometer'
+include ':unitconverter'

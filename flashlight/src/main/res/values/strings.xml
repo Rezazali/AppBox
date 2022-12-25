@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="msg_error">Your device doesn\'t support flash light!</string>
+    <string name="lbl_ok">OK</string>
+</resources>

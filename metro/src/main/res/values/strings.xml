@@ -1,0 +1,8 @@
+<resources>
+    <string name="features">وِیژگی ها</string>
+    <string name="features_en">Features</string>
+    <string name="atm_fa">خودپرداز</string>
+    <string name="atm">ATM</string>
+    <string name="taxi_en">Taxi</string>
+    <string name="tax_fa">ایستگاه تاکسی</string>
+</resources>

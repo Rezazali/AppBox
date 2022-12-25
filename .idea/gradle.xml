@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alltoolsfeature" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bazzarfeature" />
+            <option value="$PROJECT_DIR$/bmi" />
+            <option value="$PROJECT_DIR$/calculator" />
+            <option value="$PROJECT_DIR$/clubfeature" />
+            <option value="$PROJECT_DIR$/counterfeature" />
+            <option value="$PROJECT_DIR$/engineeringfeature" />
+            <option value="$PROJECT_DIR$/flashlight" />
+            <option value="$PROJECT_DIR$/gamefeature" />
+            <option value="$PROJECT_DIR$/healthfeature" />
+            <option value="$PROJECT_DIR$/mapbrt" />
+            <option value="$PROJECT_DIR$/metro" />
+            <option value="$PROJECT_DIR$/notepad" />
+            <option value="$PROJECT_DIR$/pdfreader" />
+            <option value="$PROJECT_DIR$/publicfeature" />
+            <option value="$PROJECT_DIR$/qiba" />
+            <option value="$PROJECT_DIR$/scanner" />
+            <option value="$PROJECT_DIR$/showcasefeature" />
+            <option value="$PROJECT_DIR$/speedometer" />
+            <option value="$PROJECT_DIR$/stopwatch" />
+            <option value="$PROJECT_DIR$/sudoku" />
+            <option value="$PROJECT_DIR$/toolfeature" />
+            <option value="$PROJECT_DIR$/unitconverter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

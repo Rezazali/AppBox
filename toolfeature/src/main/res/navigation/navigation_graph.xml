@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/toolFragment">
+
+    <fragment
+        android:id="@+id/toolFragment"
+        android:name="com.rezazali.toolfeature.ToolFragment"
+        android:label="fragment_tool"
+        tools:layout="@layout/fragment_tool" >
+        <action
+            android:id="@+id/action_toolFragment_to_calculatorFragment"
+            app:destination="@id/calculatorFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/calculatorFragment"
+        android:name="com.rezazali.calculator.CalculatorFragment"
+        android:label="CalculatorFragment" />
+</navigation>

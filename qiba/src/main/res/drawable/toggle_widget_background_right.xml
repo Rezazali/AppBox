@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+
+        <shape android:shape="rectangle">
+
+            <solid android:color="@color/gray_dark_quran" />
+
+            <corners android:topRightRadius="15dp" android:bottomRightRadius="15dp" />
+        </shape>
+
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/gray_dark_quran" />
+            <corners android:topRightRadius="15dp" android:bottomRightRadius="15dp" />
+
+
+        </shape>
+
+
+    </item>
+
+    <item >
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/color_primary_dark_quran" />
+       <!--     <corners android:topLeftRadius="15dp" android:bottomLeftRadius="15dp" />-->
+
+            <corners android:topRightRadius="15dp" android:bottomRightRadius="15dp" />
+
+        </shape>
+
+    </item>
+
+</selector>

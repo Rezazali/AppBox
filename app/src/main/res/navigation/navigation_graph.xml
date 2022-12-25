@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.navin.appbox.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_gameFragment"
+            app:destination="@id/gameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.rezazali.gamefeature.GameFragment"
+        android:label="GameFragment" >
+        <action
+            android:id="@+id/action_gameFragment_to_bazzarFragment"
+            app:destination="@id/bazzarFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bazzarFragment"
+        android:name="com.rezazali.bazzarfeature.BazzarFragment"
+        android:label="BazzarFragment" >
+        <action
+            android:id="@+id/action_bazzarFragment_to_clubFragment"
+            app:destination="@id/clubFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/clubFragment"
+        android:name="com.rezazali.clubfeature.ClubFragment"
+        android:label="ClubFragment" />
+</navigation>

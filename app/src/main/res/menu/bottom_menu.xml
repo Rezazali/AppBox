@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/clop_menu"
+    android:icon="@drawable/profile"
+    android:title="کلوپ" />
+    <item
+        android:id="@+id/bazzar_menu"
+        android:icon="@drawable/basket"
+        android:title="بازارچه" />
+    <item
+        android:id="@+id/fun_menu"
+        android:icon="@drawable/game"
+        android:title="سرگرمی" />
+
+    <item
+        android:id="@+id/tool_menu"
+        android:icon="@drawable/tool_menu"
+        android:title="ابزارها" />
+</menu>

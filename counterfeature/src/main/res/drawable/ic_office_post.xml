@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M35.61,438.78v10h46.74h18.95h18.09v-10h-18.09h-8.95v-9.5h17.37v-0.17h145.79v0.17h27.38v-0.17h15.86v-10H282.89V252.97h-27.38H109.72H92.35v-35.13h41v-10h-41V196.99h306.98v10.85H168.69v10h230.63v35.13h-96.75v122.24h68.91v38.02h-7.83v5.89h-29v10h29v9.67H131.58v10h232.08h40.66h6.38h36.87h28.81v-10h-28.81V413.22h-8.84V314.94h8.84v-34.55h-83.92v34.55h7.83v50.26h-58.91V262.97h86.75v6.95h10V196.99h15.12v-43.42h-84.78V63.22H152v90.35H67.22v43.42h15.13v55.98h-0V429.11v0.17h0v9.5H35.61zM410.7,438.78h-6.38h-30.66V423.22h63.92v15.56H410.7zM381.49,413.22v-6.84h47.25v6.84H381.49zM373.66,290.39h63.92v14.55h-63.92V290.39zM428.74,314.94v81.44H381.49V314.94H428.74zM271.19,119.93l58.48,-41.97v87.57L271.19,119.93zM250.31,122.6c-2.68,1.92 -6.28,1.92 -8.96,-0l-68.81,-49.38h146.58L250.31,122.6zM220.48,119.92l-58.48,45.61v-87.57L220.48,119.92zM228.95,126l6.58,4.72c3.08,2.21 6.7,3.32 10.31,3.32c3.61,0 7.23,-1.11 10.31,-3.32l6.57,-4.72l57.41,44.77h-148.59L228.95,126zM77.22,186.99v-23.42h74.78v17.2h187.67v-17.2h74.78v23.42h-5.12H82.35H77.22zM272.89,262.97V419.11h-7.38V262.97H272.89zM255.51,262.97V419.11H109.72V262.97H255.51zM99.72,262.97V419.11h-7.37V262.97H99.72z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M12.1,438.78h11.7v10h-11.7z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M488.2,438.78h11.7v10h-11.7z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M177.62,274.06h10v133.35h-10z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M309.7,419.11h14.31v10h-14.31z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M145.01,207.84h11.99v10h-11.99z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M389.92,329.06h30.39v10h-30.39z"/>
+</vector>
